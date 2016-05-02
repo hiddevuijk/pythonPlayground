@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-02-21T11:53:04Z</date>
+	<key>Application Version</key><string>12.1.2.27</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/hiddevuijk/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>AAC7314DD5731E18</string>
+	<key>Tracks</key>
+	<dict>
+		<key>683</key>
+		<dict>
+			<key>Track ID</key><integer>683</integer>
+			<key>Name</key><string>love in an elevator</string>
+			<key>Artist</key><string>aerosmith</string>
+			<key>Album Artist</key><string>aerosmith</string>
+			<key>Composer</key><string>Steven Tyler, Joe Perry</string>
+			<key>Album</key><string>very best of</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG-audiobestand</string>
+			<key>Size</key><integer>5388918</integer>
+			<key>Total Time</key><integer>322429</integer>
+			<key>Disc Count</key><integer>18</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2012-05-10T09:58:05Z</date>
+			<key>Date Added</key><date>2011-04-28T16:34:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3488023284</integer>
+			<key>Play Date UTC</key><date>2014-07-12T14:21:24Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-04-22T20:16:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CAF081542AB1894F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/hiddevuijk/Music/iTunes/iTunes%20Media/Music/aerosmith/very%20best%20of/02%20love%20in%20an%20elevator.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>685</key>
+		<dict>
+			<key>Track ID</key><integer>685</integer>
+			<key>Name</key><string>livin' on the edge</string>
+			<key>Artist</key><string>aerosmith</string>
+			<key>Album Artist</key><string>aerosmith</string>
+			<key>Composer</key><string>Tyler, Perry, Mark Hudson</string>
+			<key>Album</key><string>very best of</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG-audiobestand</string>
+			<key>Size</key><integer>5140650</integer>
+			<key>Total Time</key><integer>306912</integer>
+			<key>Disc Count</key><integer>18</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2012-05-10T09:58:55Z</date>
+			<key>Date Added</key><date>2011-04-28T16:34:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3446032030</integer>
+			<key>Play Date UTC</key><date>2013-03-13T14:07:10Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-01-03T13:58:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D242035DBA93AC0A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/hiddevuijk/Music/iTunes/iTunes%20Media/Music/aerosmith/very%20best%20of/03%20livin'%20on%20the%20edge.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>687</key>
+		<dict>
+			<key>Track ID</key><integer>687</integer>
+			<key>Name</key><string>walk this way</string>
+			<key>Artist</key><string>aerosmith</string>
+			<key>Album Artist</key><string>aerosmith</string>
+			<key>Composer</key><string>Steven Tyler, Joe Perry</string>
+			<key>Album</key><string>very best of</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG-audiobestand</string>
+			<key>Size</key><integer>3768908</integer>
+			<key>Total Time</key><integer>221178</integer>
+			<key>Disc Count</key><integer>18</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2012-05-10T09:59:24Z</date>
+			<key>Date Added</key><date>2011-04-28T16:34:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3481046438</integer>
+			<key>Play Date UTC</key><date>2014-04-22T20:20:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-01-09T16:25:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>18FD6DB9FAE0AF0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/hiddevuijk/Music/iTunes/iTunes%20Media/Music/aerosmith/very%20best%20of/04%20walk%20this%20way.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9275</key>
+		<dict>
+			<key>Track ID</key><integer>9275</integer>
+			<key>Name</key><string>In My Life</string>
+			<key>Artist</key><string>Al Di Meola</string>
+			<key>Album</key><string>All Your Life</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG-audiobestand</string>
+			<key>Size</key><integer>9410993</integer>
+			<key>Total Time</key><integer>232960</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-07-03T12:50:27Z</date>
+			<key>Date Added</key><date>2013-07-03T14:39:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>P2PDL.com</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-08-01T14:05:54Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4039867F0BEE88A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/hiddevuijk/Music/iTunes/iTunes%20Media/Music/Al%20Di%20Meola/All%20Your%20Life/01%20In%20My%20Life.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9277</key>
+		<dict>
+			<key>Track ID</key><integer>9277</integer>
+			<key>Name</key><string>And I Love Her</string>
+			<key>Artist</key><string>Al Di Meola</string>
+			<key>Album</key><string>All Your Life</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG-audiobestand</string>
+			<key>Size</key><integer>10969988</integer>
+			<key>Total Time</key><integer>271934</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-07-03T12:50:25Z</date>
+			<key>Date Added</key><date>2013-07-03T14:39:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>P2PDL.com</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3490540556</integer>
+			<key>Play Date UTC</key><date>2014-08-10T17:35:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-03T14:41:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5CCA9397CD38B0EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/hiddevuijk/Music/iTunes/iTunes%20Media/Music/Al%20Di%20Meola/All%20Your%20Life/02%20And%20I%20Love%20Her.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9279</key>
+		<dict>
+			<key>Track ID</key><integer>9279</integer>
+			<key>Name</key><string>Because</string>
+			<key>Artist</key><string>Al Di Meola</string>
+			<key>Album</key><string>All Your Life</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG-audiobestand</string>
+			<key>Size</key><integer>10015983</integer>
+			<key>Total Time</key><integer>248084</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-07-03T12:50:26Z</date>
+			<key>Date Added</key><date>2013-07-03T14:39:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>P2PDL.com</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3457589443</integer>
+			<key>Play Date UTC</key><date>2013-07-25T08:30:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-03T14:41:43Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>04D8E958B855C09F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/hiddevuijk/Music/iTunes/iTunes%20Media/Music/Al%20Di%20Meola/All%20Your%20Life/03%20Because.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10963</key>
+		<dict>
+			<key>Track ID</key><integer>10963</integer>
+			<key>Name</key><string>R-Peggio</string>
+			<key>Composer</key><string>Loek Van Der Knaap</string>
+			<key>Album</key><string>Gitaarles</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC-audiobestand</string>
+			<key>Size</key><integer>1784986</integer>
+			<key>Total Time</key><integer>56386</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>30</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2016-02-21T11:43:37Z</date>
+			<key>Date Added</key><date>2016-02-10T19:59:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Speel Blues En Rock 3 Loek Van Der Knaap</string>
+			<key>Normalization</key><integer>3692</integer>
+			<key>Persistent ID</key><string>567C3CC48B01F96B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/hiddevuijk/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Gitaarles/12%20R-Peggio.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>21716</key>
+		<dict>
+			<key>Track ID</key><integer>21716</integer>
+			<key>Name</key><string>R-Peggio</string>
+			<key>Artist</key><string>Loek Van Der Knaap</string>
+			<key>Composer</key><string>Loek Van Der Knaap</string>
+			<key>Album</key><string>Speel Blues En Rock 3</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC-audiobestand</string>
+			<key>Size</key><integer>1784986</integer>
+			<key>Total Time</key><integer>56386</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>30</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2016-02-10T19:45:20Z</date>
+			<key>Date Added</key><date>2016-02-21T11:43:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3692</integer>
+			<key>Persistent ID</key><string>7A92E6EB556D66D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/hiddevuijk/Music/iTunes/iTunes%20Media/Music/Loek%20Van%20Der%20Knaap/Speel%20Blues%20En%20Rock%203/12%20R-Peggio.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Afspeellijst</string>
+			<key>Playlist ID</key><integer>21337</integer>
+			<key>Playlist Persistent ID</key><string>A7CB0282C17A7980</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>685</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>687</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9275</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9277</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9279</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21716</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10963</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
